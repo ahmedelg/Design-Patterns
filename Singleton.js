@@ -47,4 +47,4 @@ function Logger() {
 var a = new Logger(); 
 var b = new Logger(); 
 console.log(a === b); // true
-console.log(a);
+console.log(a); // Logger {}
